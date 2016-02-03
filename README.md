@@ -3,7 +3,7 @@ Convert images to base64 and store it easier in your database
 
 ## Usage
 
-Sixtyfour expose two functions `prepareImage` and `displayImages`
+Sixtyfour expose two global functions `prepareImage` and `displayImages`
 
 ### prepareImage
 ```
