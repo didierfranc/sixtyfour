@@ -1,7 +1,6 @@
 # sixtyfour
 Convert images to base64 and store it easier in your database
 
-
 ## Usage
 
 Sixtyfour expose two functions `prepareImage` and `displayImages`
@@ -25,6 +24,8 @@ displayImages(imagesArray, elementID)
 **elementID** : ID of your html display div  
 
 ## Example
+
+**HTML :**
 ```html
 <input id="newImage" type="file">
 <div id="showImage"></div>
