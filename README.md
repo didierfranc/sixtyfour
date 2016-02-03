@@ -20,7 +20,7 @@ You can't set width and height you have to choose one and set the other to `null
 ```
 displayImages(imagesArray, elementID)
 ```
-**imagesArray** : the array where you store preparedImage  
+**imagesArray** : the array where you store preparedImages
 **elementID** : ID of your html display div  
 
 ## Example
