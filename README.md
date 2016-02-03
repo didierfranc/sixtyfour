@@ -1,5 +1,5 @@
 # sixtyfour
-Convert images to base64 and store it easier in your database
+Convert images to base64 client side and store it easier in your database
 
 ## Usage
 
