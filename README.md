@@ -9,7 +9,7 @@ Sixtyfour expose two functions `prepareImage` and `displayImages`
 ```
 prepareImage(elementID, quality, width, height, callback)
 ```
-**elementID** : ID of your html input  
+**elementID** : `string` ID of your html input  
 **quality** : `number` in percent  
 **width** : `number` in px  
 **height** : `number` in px   
