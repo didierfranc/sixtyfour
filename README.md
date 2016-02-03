@@ -7,10 +7,10 @@ Sixtyfour expose two functions `prepareImage` and `displayImages`
 
 ### prepareImage
 ```
-prepareImage(elementID, imageQuality, width, height, callback)
+prepareImage(elementID, quality, width, height, callback)
 ```
 **elementID** : ID of your html input  
-**imageQuality** : `number` in percent  
+**quality** : `number` in percent  
 **width** : `number` in px  
 **height** : `number` in px   
 
