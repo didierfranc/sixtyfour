@@ -5,7 +5,7 @@ Convert images to base64 and store it easier in your database
 
 Sixtyfour expose two functions `prepareImage` and `displayImages`
 
-### prepareImage()
+### prepareImage
 ```
 prepareImage(elementID, imageQuality, width, height, callback)
 ```
@@ -17,7 +17,7 @@ prepareImage(elementID, imageQuality, width, height, callback)
 You can't set width and height you have to choose one and set the other to `null`.
 **Callback** argument is your base64 image.
 
-### displayImages()
+### displayImages
 ```
 displayImages(imagesArray, elementID)
 ```
