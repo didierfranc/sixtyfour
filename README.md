@@ -14,7 +14,7 @@ prepareImage(elementID, imageQuality, width, height, callback)
 **width** : `number` in px  
 **height** : `number` in px   
 
-You can't set width and height choose one and set the other to `null`
+You can't set width and height you have to choose one and set the other to `null`
   
 ### displayImages
 ```
