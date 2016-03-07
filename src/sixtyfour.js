@@ -40,7 +40,7 @@ var file = document.getElementById(id).files[0]
   }
 }
 
-function displayImages ( array, id ) {
+function displayImages (array, id) {
 
   var parent = document.getElementById(id)
   parent.innerHTML = ''
