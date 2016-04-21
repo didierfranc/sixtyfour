@@ -38,7 +38,7 @@ var imageArray = []
 var input = document.getElementById('newImage')
 input.addEventListener('change', onChange)
 
-function onChange(){
+function onChange() {
 
   prepareImage('newImage', 100, 600, null, function(base64){
     imageArray.push(base64)
